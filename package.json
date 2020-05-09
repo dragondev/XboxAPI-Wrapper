@@ -1,0 +1,18 @@
+{
+  "name": "@shadow/xbox",
+  "version": "1.0.0",
+  "description": "Javascript wrapper for Xbox's API",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github/dragondev/XboxAPI-Wrapper"
+  },
+  "author": "dragonblitz10",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "@aero/centra": "^1.0.3"
+  }
+}
