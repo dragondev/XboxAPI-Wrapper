@@ -1,6 +1,6 @@
 {
   "name": "@shadow/xbox",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Javascript wrapper for Xbox's API",
   "main": "src/index.js",
   "scripts": {
